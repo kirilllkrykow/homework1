@@ -1,2 +1,2 @@
-n = str(input("Введите любое число:"))
-print (int(n)+int(n+n)+int(n+n+n))
+time = int(input("Введите время в секундах: "))
+print (f"{time//3600}:",f"{time%3600//60}:",f"{time%3600%60}")
