@@ -1,1 +1,0 @@
-new_list=sum([list(range(20,240,20))],list(range(21,240,21)))
